@@ -1,0 +1,15 @@
+# Third-party reference clones (SCAT, QCSuper) — re-clonable, see NOTES.md
+refs/
+
+# Large downloadable/rebuilt binaries
+frida-server
+nsa5gfix-diagd
+nsa5gfix-diagd-host
+
+# Android app build products
+app/NSA5GFix.apk
+app/app/build/
+app/build/
+app/.gradle/
+app/local.properties
+app/app/src/main/jniLibs/
